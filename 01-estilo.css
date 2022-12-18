@@ -1,0 +1,46 @@
+html {
+    overflow: hidden;
+}
+
+.contenedor {
+    font: 1em sans-serif;
+    max-width: 600px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+.contenido {
+    border: 2px dotted black;
+    min-height: 10em;
+    margin-bottom: 1em;
+}
+
+.form-group {
+    margin-top: 1em;
+}
+
+button {
+    display: block;
+    width: 100%;
+}
+
+.success{
+    border-color: green;
+} 
+.error
+{
+    border-color: red;
+}
+
+.contenido img {
+    width: 100%;
+}
+
+.col {
+    overflow: hidden;
+}
+
+.card-body{
+    width: auto;
+    padding: auto;
+}
